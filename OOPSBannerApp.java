@@ -1,4 +1,4 @@
-public class OOPSBannerApp7{
+public class OOPSBannerApp{
 
     // Class to store character and its pattern
     static class CharacterPatternMap {
