@@ -1,4 +1,4 @@
-public class OOPSAPP_LOOP {
+public class OOPSBannerApp {
    public static void main(String[] args) {
 	   
  	    String[] lines = new String[7];
