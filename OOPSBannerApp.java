@@ -1,4 +1,4 @@
-public class OOPSBannerApp5{
+public class OOPSBannerApp{
 public static void main(String args[]){
 String[] lines = {
 String.join("","   **    ","   **    "," *****   ","  ****    "),
