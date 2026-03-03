@@ -1,4 +1,4 @@
-public class OOPSBannerApp6{
+public class OOPSBannerApp{
 public static void main (String args[]){
 String[] opattern = getopattern();
 String[] ppattern = getppattern();
